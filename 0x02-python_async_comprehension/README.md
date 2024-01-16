@@ -1,4 +1,4 @@
-# Python Async Comprehension Examples
+# Python Async Comprehension
 
 ✨ This repository showcases the power of async comprehensions in Python using asyncio module. Check out the exciting examples below! 🚀
 
