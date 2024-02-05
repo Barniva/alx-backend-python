@@ -1,4 +1,4 @@
-## Project Title: Testing Fun with Python 🧪🐍
+## Project Title: Unittests and Integration Tests 🧪🐍
 
 Welcome to "Testing Fun with Python" project! 🎉 In this project, we'll embark on an exciting journey to explore the world of testing in Python and have some fun along the way! 🚀🔬
 
