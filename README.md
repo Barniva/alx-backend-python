@@ -5,13 +5,6 @@
 
 Welcome to the **alx-backend-python** repository! This repository is dedicated to backend development using Python. 
 
-## 📚 Table of Contents 📚
-
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## 🎯 Introduction 🎯
 
@@ -30,10 +23,7 @@ cd alx-backend-python
 
 Each directory in the repository represents a different project. Navigate to the directory of the project you want to use and follow the instructions in the README file of that directory.
 
-## 👥 Contributing 👥
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute.
 
 ## 📄 License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
